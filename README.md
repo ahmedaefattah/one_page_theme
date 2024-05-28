@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-  ![screenShot](https://github.com/ahmedaefattah/one_page_theme/blob/master/screenshot/screenshot.png)
+  ![screenShot](https://github.com/ahmedaefattah/one_page_theme/blob/main/screenshots/screenshot.png)
 
 
 ## Live Demo
