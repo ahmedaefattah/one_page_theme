@@ -11,4 +11,4 @@
 
 ## Live Demo
 
-* [One Page Theme](https://one-page-theme.herokuapp.com/)
+* [One Page Theme](https://one-page-theme-ahmedaefattah.netlify.app/)
